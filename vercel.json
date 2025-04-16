@@ -29,11 +29,6 @@
       ]
     }
   ],
-  "routes": [
-    { "src": "/practice-areas", "dest": "/practice-areas.html" },
-    { "src": "/contact", "dest": "/contact.html" },
-    { "src": "/anti-spam-policy", "dest": "/anti-spam-policy.html" },
-    { "src": "/terms-of-service", "dest": "/terms-of-service.html" },
-    { "src": "/privacy-policy", "dest": "/privacy-policy.html" }
-  ]
+  "cleanUrls": true,
+  "trailingSlash": false
 }
